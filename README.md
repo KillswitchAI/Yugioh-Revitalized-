@@ -53,7 +53,7 @@ Fundamental Rules
 	•	Level 4 Cap: Maximum 5 Level 4 monsters per deck total, across all monster types. Evaluated by printed level. Functional reclassification does not affect cap counting.
 	•	Ritual & Fusion Limits: Maximum 1 Ritual Monster and 2 Fusion Monsters per deck.
 	•	Deck Size: 40–50 cards.
-	•	Target Split: 20 monsters / 20 spells and traps.
+
 
 Dupe Power Tax — Deck Power Punishments
 Duplicates are deck power punishments. Running more than one copy increases Power Point cost compounding at +50% per extra copy, or +25% for Fusions. The more impactful the card the harsher the punishment for duplicating it.
